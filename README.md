@@ -7,7 +7,7 @@ author: Mathys Goncalves
 <div style="text-align: right"> Mathys Goncalves - BDIA </div>
 </br>
 
-L'objectif de ce TP est d'orchestrer la création d'une VM dans Azure avec Terraform.
+The objective of this lab is to orchestrate the creation of a VM in Azure with Terraform.
 </br>
 
 ## Azure Provider
